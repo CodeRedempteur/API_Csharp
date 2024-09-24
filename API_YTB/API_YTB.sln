@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_YTB", "API_YTB\API_YTB.csproj", "{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2181B89-A314-4122-AA14-F2B634262361}
+	EndGlobalSection
+EndGlobal
