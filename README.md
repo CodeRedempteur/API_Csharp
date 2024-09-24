@@ -8,7 +8,7 @@ Des vidéos explicatives sont disponibles sur [YouTube](https://www.youtube.com/
 
 ## 🚀 Comment utiliser ces fichiers ?
 
-1. **Clonez le dépôt** : `git clone https://github.com/votre-utilisateur/monogame-projects.git`
+1. **Clonez le dépôt** : `git clone https://github.com/votre-utilisateur/API_Csharp.git`
 2. **Ouvrez le projet** dans Visual Studio ou votre IDE préféré.
 3. **Exécutez** et explorez les différents exemples fournis.
 4. Consultez les commentaires et instructions dans chaque fichier pour comprendre chaque étape du développement.
