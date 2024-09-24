@@ -4,7 +4,7 @@ Bienvenue dans ce repository conçus spécialement pour les débutants en C# qui
 
 ## 🎥 Découvrir les tutoriels vidéo
 
-Des vidéos explicatives sont disponibles sur [YouTube](https://www.youtube.com/watch?v=QNS74m1X0Zo&list=PLwxzgoKfBuLHQ-ScyawgLf14_9zT4B-7e&index=5&ab_channel=CodeRedempteur). Regardez-les pour en savoir plus sur la mise en œuvre des projets et obtenir des démonstrations détaillées.
+Des vidéos explicatives sont disponibles sur [YouTube](https://www.youtube.com/playlist?list=PLwxzgoKfBuLHQ-ScyawgLf14_9zT4B-7e). Regardez-les pour en savoir plus sur la mise en œuvre des projets et obtenir des démonstrations détaillées.
 
 ## 🚀 Comment utiliser ces fichiers ?
 
