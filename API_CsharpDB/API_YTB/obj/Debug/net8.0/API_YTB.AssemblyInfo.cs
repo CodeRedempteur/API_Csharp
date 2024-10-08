@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_YTB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0bd46f0ce4667d590a0f12d0522f758f6598af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9221a9456c165ab5eca8966a77489164c2f03ef9")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_YTB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_YTB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\api_ytb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\api_ytb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|c:\\users\\snifl\\documents\\projetinformatique\\github\\api_csharp\\api_csharpdb_jwt\\api_ytb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EE2D75-9DEE-4986-A1F6-35B47E2E1320}|API_YTB\\API_YTB.csproj|solutionrelative:api_ytb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API_YTB.http",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\API_YTB.http",
+              "RelativeDocumentMoniker": "API_YTB\\API_YTB.http",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\API_YTB.http",
+              "RelativeToolTip": "API_YTB\\API_YTB.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-08T07:24:47.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API_YTB\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API_YTB\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:51:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "API_YTB\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\UserContext.cs",
+              "RelativeToolTip": "API_YTB\\Models\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:48:38.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API_YTB\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\User.cs",
+              "RelativeToolTip": "API_YTB\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:47:02.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\appsettings.json",
+              "RelativeDocumentMoniker": "API_YTB\\appsettings.json",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\appsettings.json",
+              "RelativeToolTip": "API_YTB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T06:41:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "API_YTB\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\ProductContext.cs",
+              "RelativeToolTip": "API_YTB\\Models\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:40:49.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "API_YTB\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Models\\Product.cs",
+              "RelativeToolTip": "API_YTB\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:40:42.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API_YTB\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API_YTB\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:40:28.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Program.cs",
+              "RelativeDocumentMoniker": "API_YTB\\Program.cs",
+              "ToolTip": "C:\\Users\\SnifL\\Documents\\ProjetInformatique\\Github\\API_Csharp\\API_CsharpDB_JWT\\API_YTB\\Program.cs",
+              "RelativeToolTip": "API_YTB\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:39:47.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
